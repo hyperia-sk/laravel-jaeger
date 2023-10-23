@@ -1,5 +1,5 @@
 {
-    "name": "chocofamilyme/laravel-jaeger",
+    "name": "hyperia/laravel-jaeger",
     "description": "Jaeger wrapper for Laravel",
     "type": "library",
     "license": "MIT",
